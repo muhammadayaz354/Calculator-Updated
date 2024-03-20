@@ -29,6 +29,4 @@ if (answer.Operator === "Addition") {
   console.log(answer.firstNumber * answer.SecondNumber);
 } else if (answer.Operator === "Devision") {
   console.log(answer.firstNumber / answer.SecondNumber);
-} else {
-  ("Please Select any valid number");
-}
+} 
